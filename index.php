@@ -10,7 +10,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
     <meta name="description" content="Развивай и продвигай свой бизнес в интернете. Закажи современный сайт, который будет корректно отображаться на всех устройствах.">
     <meta name="keywords" content="создание сайтов на заказ, купить сайт дешево, купить сайт недорого, закзать сайт">
-    <title>DevOps services</title>
+    <title>Web разработка</title>
 </head>
 
 <body>
